@@ -72,7 +72,7 @@ function Home() {
             birthdate: "May 28, 1998", 
             nationality: "Korean 🇰🇷",
             ig: "@dahhyunee",
-            ig_link: "https://www.instagram.com/dahhyunee/?utm_source=ig_web_button_share_sheet",
+            ig_link: "https://www.instagram.com/dahhyunnee?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
             color: "#FFFFFF", emoji: "🤍",  
 
         },
